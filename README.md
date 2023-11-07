@@ -7,3 +7,5 @@ Link for Practice : https://www.codingninjas.com/studio/library/problems-on-low-
 Link : https://www.interviewbit.com/low-level-design-interview-questions/
 
 Design Patterns Link: https://refactoring.guru/design-patterns/cpp
+
+S.O.L.I.D. in C++ : https://nexwebsites.com/blog/solid-design-principles/

@@ -8,6 +8,13 @@ using namespace std;
 // A class is made abstract by declaring at least one of its functions as pure virtual function.
 // A pure virtual function is specified by placing "= 0" in its declaration as follows −
 
+// public, protected and private inheritance in C++
+// public, protected, and private inheritance have the following features:
+
+// public inheritance makes public members of the base class public in the derived class, and the protected members of the base class remain protected in the derived class.
+// protected inheritance makes the public and protected members of the base class protected in the derived class.
+// private inheritance makes the public and protected members of the base class private in the derived class.
+
 // Base class
 class Shape
 {
